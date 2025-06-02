@@ -1,5 +1,3 @@
-# ###Claude 4 built this###
-
 Rural & Regional Australian Business Directory
 
 A modern, accessible web application showcasing rural businesses across Australia with comprehensive profiles covering locations, industries, services, and key features.
