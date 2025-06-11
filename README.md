@@ -363,17 +363,6 @@ test('filters businesses by search term using useBusinessData', () => {
 - **Performance Monitoring**: Regular performance audits
 - **User Feedback**: Collect and implement user suggestions
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Australian Rural Communities**: For inspiring this project
-- **Open Source Community**: For the tools and libraries that make this possible
-- **Tailwind CSS**: For the excellent utility-first CSS framework
-- **React Team**: For the powerful and flexible JavaScript library
-- **Contributors**: All developers who contribute to improving rural business visibility
 
 ---
 
